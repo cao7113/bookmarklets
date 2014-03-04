@@ -1,6 +1,23 @@
 Bookmarklet Framework
 =====================
 
+### New added
+
+Add a bookmarklet build tool written using perl
+
+build bookmarklet app demo: 
+
+* $ build-shortlet github-search.js
+* $ build-shortlet lauch-min.js
+
+refs:
+
+* demos/index.html good!
+* https://github.com/dougal/github-bookmarklet
+* http://daringfireball.net/2007/03/javascript_bookmarklet_builder 
+
+### Original README
+
 Created by Oscar Otero <http://oscarotero.com> <oom@oscarotero.com>
 GNU Affero GPL version 3. http://www.gnu.org/licenses/agpl-3.0.html
 
